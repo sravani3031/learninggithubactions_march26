@@ -13,4 +13,4 @@ jobs:
             - name: learning 
               run: "echo hello how are you"
             - name: list env
-              run: printenv    
+              run: pri    
